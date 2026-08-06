@@ -32,4 +32,4 @@ print(message)
 # we can passs formatting options
 
 num = 10
-print(f"\n 2.25 times {num} is {2.25 * num:2f}")
+print(f"\n 2.25 times {num} is {2.25 * num:.2f}")
